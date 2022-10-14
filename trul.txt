@@ -1,2 +1,6 @@
 git log --graph --pretty=oneline --abbrev-commit
+<<<<<<< HEAD
+=======
+git log --graph --pretty=oneline --abbrev-commit
+>>>>>>> dev
 git log --graph --pretty=oneline --abbrev-commit
